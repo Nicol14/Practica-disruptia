@@ -1,0 +1,23 @@
+h1 {
+  color: blueviolet;
+  border: 1px chocolate;
+}
+p {
+  color: blue;
+}
+.parrafos {
+  color: green;
+  border: 2px solid aqua;
+}
+#primer-parrafo {
+  color: aquamarine;
+}
+#heading {
+  color: red;
+}
+.alert {
+  color: brown;
+}
+h1 {
+  color: pink;
+}
